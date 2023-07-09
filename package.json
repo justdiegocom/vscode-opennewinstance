@@ -10,12 +10,12 @@
         "theme": "dark"
     },
     "icon": "images/Open_file.png",
-    "homepage": "https://github.com/chrisdias/vscode-opennewinstance/blob/master/README.md",
+    "homepage": "https://github.com/justdiegocom/vscode-opennewinstance/blob/master/README.md",
     "repository": {
-        "url": "https://vscode.dev/github/chrisdias/vscode-opennewinstance"
+        "url": "https://vscode.dev/github/justdiegocom/vscode-opennewinstance"
     },
     "bugs": {
-        "url": "https://github.com/chrisdias/vscode-opennewinstance/issues"
+        "url": "https://github.com/justdiegocom/vscode-opennewinstance/issues"
     },
     "engines": {
         "vscode": "^1.59.0"
@@ -33,11 +33,11 @@
         "commands": [
             {
                 "command": "extension.openNewInstance",
-                "title": "Open New Workbench Here"
+                "title": "Open Folder In a New Window"
             },
             {
                 "command": "extension.scopeToHere",
-                "title": "Reopen Workbench Here"
+                "title": "Open Folder Here"
             }
         ],
         "menus": {
