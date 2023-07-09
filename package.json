@@ -3,8 +3,8 @@
     "displayName": "Open Folder Context Menus for VS Code",
     "description": "Quickly open a new instance of VS Code from the Explorer",
     "version": "0.0.12",
-    "author": "Chris Dias",
-    "publisher": "chrisdias",
+    "author": "justdiegocom",
+    "publisher": "justdiegocom",
     "galleryBanner": {
         "color": "#37699A",
         "theme": "dark"
